@@ -1,0 +1,11 @@
+---
+name: "Quarkus Log Nats"
+metadata:
+  keywords:
+  - "github"
+  - "github-api"
+  - "github api"
+  guide: "https://github-api.kohsuke.org/"
+  categories:
+    - "business-automation"
+  status: "stable"
